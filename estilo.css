@@ -1,0 +1,30 @@
+body,html {
+ margin:auto;
+ border:solid 10px violet;
+ background-color: rgb(152, 236, 152); 
+}
+
+#destaque{
+    background-image: url(fundo.jpg);
+    text-align: center;
+    color: rgb(238, 232, 222);
+    height: 300px;
+}
+
+.item{
+    width: 20%;
+    border: 10px solid yellow;
+    float: left;
+    text-align: center;
+    padding: 2%;
+}
+
+#produtos{
+    text-align: justify;
+    clear: both;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
